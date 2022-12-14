@@ -34,7 +34,7 @@
   "author": "actuallymentor",
   "license": "MIT",
   "devDependencies": {
-    "dotenv": "^16.0.2",
+    "dotenv": "^16.0.3",
     "electron": "^20.1.4",
     "electron-builder": "^23.3.3",
     "electron-notarize": "^1.2.1"
